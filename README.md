@@ -11,17 +11,58 @@
 * 개발 Tool : Eclipse, SVN, Apache Tomcat v8.5
 
 
-## 華城商工会議所　K - Move 2期 (화성상공회의소 K - Move 2기)
+## 華城商工会議所　K - Move 2期 
 
-### 履修課程名 (이수 과정명)
-* JAVA入門及びJSP基盤のウェブアプリケーション制作 (JAVA 입문 및 JSP 기반의 웹 어플리케이션 제작)
+### 履修課程名
+* JAVA入門及びJSP基盤のウェブアプリケーション制作
 
-### 教育期間 (교육 기간)
+### 教育期間
 * 2018.8.1 ~ 2018.11.28 (402時間)
 
-### 教育内容 (교육 내용)
-* JAVAプログラミング(131時間) (JAVA 프로그래밍 (131시간))
-  - 基本文法及びオブジェクト指向プログラミング、Collection, JDBC, FileIO外 (기본문법 및 객체지향기술(OOP), Collection, JDBC, FileIO 외)
+### 教育内容
+* JAVAプログラミング(131時間)
+  - 基本文法及びオブジェクト指向プログラミング、Collection、JDBC、FileIO外
+  - JDK 1.8.x、Eclipse Photon
+
+* Oracle (SQL、Database) (28時間)
+  - 基本DDL、DML、関数、join、subquery、view
+  - ORACLE 11g XE、SQL DEVELOPER、ER Master(for eclipse)
+
+* JSP (51時間)
+  - Servlet、JSP tag、EL、JSTL、DAO、DTO、MVC model2
+  - JSP 2.3、Servlet 3.1、Tomcat 8.5
+
+* WEB(HTML, CSS) (26時間)
+  - 主要 element, style sheet, form, Responsive Web Design, Bootstrap4
+  - HTML5, CSS3
+
+* WEB(Javascript, jQuery) (34時間)
+  - 基本文法、DOM扱い、イベントハンドリング、form扱い、AJAX、jSON、XML扱い
+  - jQuery 3.3.1
+  
+* Project (132時間)
+  - MVC Model基盤のウェブアプリケーション制作
+
+
+
+
+
+
+
+*************
+
+
+## 화성상공회의소 K - Move 2기
+
+### 이수 과정명
+* JAVA 입문 및 JSP 기반의 웹 어플리케이션 제작
+
+### 교육 기간
+* 2018.8.1 ~ 2018.11.28 (402시간)
+
+### 교육 내용
+* JAVA 프로그래밍 (131시간)
+  - 기본문법 및 객체지향기술(OOP), Collection, JDBC, FileIO 외
   - JDK 1.8.x, Eclipse Photon
 
 * Oracle (SQL, Database) (28시간)
