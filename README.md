@@ -1,5 +1,4 @@
 # Project_BoX
-프로젝트
-=======
 개요
 ----
+* ERP(Enterprise Resource Planning, 전사적 자원관리)
