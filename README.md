@@ -1,7 +1,6 @@
 # Project_BoX Portfolio
 
 ## 개요
-----
 * ERP(Enterprise Resource Planning, 전사적 자원관리) 시스템을 4명의 팀원이 직원관리, 고객관리, 상품 재고 및 판매 관리, 게시판으로 4개의 부분으로 나누어서 프로젝트를 진행. 
 
 ## 공헌한 내용(게시판 담당)
@@ -42,4 +41,4 @@
   - jQuery 3.3.1
   
 * Project (132시간)
-MVC Model 기반의 웹 어플리케이션 제작
+  - MVC Model 기반의 웹 어플리케이션 제작
