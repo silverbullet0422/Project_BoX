@@ -1,14 +1,14 @@
 # Project_BoX Portfolio
 
-## 개요
-* ERP(Enterprise Resource Planning, 전사적 자원관리) 시스템을 4명의 팀원이 직원관리, 고객관리, 상품 재고 및 판매 관리, 게시판으로 4개의 부분으로 나누어서 프로젝트를 진행. 
+## 概要
+* ERP(Enterprise Resource Planning、企業資源管理）システムを4人のチームのメンバーが職員管理、顧客管理、商品在庫及び販売管理、掲示板の四つの部分で分けてプロジェクトを進行。
 
-## 공헌한 내용(게시판 담당)
+## 貢献の内容（掲示板の担当）
 * 
 * 
 * 
 * 
-* 개발 Tool : Eclipse, SVN, Apache Tomcat v8.5
+* 開発Tool : Eclipse、Oracle、Apache Tomcat v8.5
 
 
 ## 華城商工会議所　K - Move 2期 
@@ -58,7 +58,7 @@
 * 
 * 
 * 
-* 개발 Tool : Eclipse, SVN, Apache Tomcat v8.5
+* 개발 Tool : Eclipse, Oracle, Apache Tomcat v8.5
 
 ## 화성상공회의소 K - Move 2기
 
