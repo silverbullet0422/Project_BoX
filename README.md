@@ -33,8 +33,8 @@
   - JSP 2.3、Servlet 3.1、Tomcat 8.5
 
 * WEB(HTML, CSS) (26時間)
-  - 主要 element, style sheet, form, Responsive Web Design, Bootstrap4
-  - HTML5, CSS3
+  - 主要 element、style sheet、form、Responsive Web Design、Bootstrap4
+  - HTML5、CSS3
 
 * WEB(Javascript, jQuery) (34時間)
   - 基本文法、DOM扱い、イベントハンドリング、form扱い、AJAX、jSON、XML扱い
@@ -50,7 +50,15 @@
 
 
 *************
+## 개요
+* ERP(Enterprise Resource Planning, 전사적 자원관리) 시스템을 4명의 팀원이 직원관리, 고객관리, 상품 재고 및 판매 관리, 게시판으로 4개의 부분으로 나누어서 프로젝트를 진행. 
 
+## 공헌한 내용(게시판 담당)
+* 
+* 
+* 
+* 
+* 개발 Tool : Eclipse, SVN, Apache Tomcat v8.5
 
 ## 화성상공회의소 K - Move 2기
 
