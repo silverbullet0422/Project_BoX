@@ -4,10 +4,12 @@
 * ERP(Enterprise Resource Planning、企業資源管理）システムを4人のチームのメンバーが職員管理、顧客管理、商品在庫及び販売管理、掲示板の四つの部分で分けてプロジェクトを進行。
 
 ## 貢献の内容（掲示板の担当）
-* 
-* 
-* 
-* 
+* 職員ページの掲示板、顧客ページの掲示板２つの部分制作
+* オラクルのDDL機能とセッションのIDに本人確認を通じて書き、修正、削除、返事の機能を制作
+* CKエディターを使って文の内容にhtmlタグ使用可能
+* 開発Tool : Eclipse, Oracle, Apache Tomcat v8.5
+* 職員ページの掲示板 WebContent/EMP_board, Java Resources/com/bean/BoardBean.java, com/dao/BoardDao.java / com/db/MyOracle.java 参考
+* 顧客ページの掲示板 WebContent/CUS_board, Java Resources/com/bean/BoardBean2.java, com/dao/BoardDao2.java / com/db/MyOracle.java 参考
 * 開発Tool : Eclipse、Oracle、Apache Tomcat v8.5
 
 
@@ -54,11 +56,12 @@
 * ERP(Enterprise Resource Planning, 전사적 자원관리) 시스템을 4명의 팀원이 직원관리, 고객관리, 상품 재고 및 판매 관리, 게시판으로 4개의 부분으로 나누어서 프로젝트를 진행. 
 
 ## 공헌한 내용(게시판 담당)
-* 
-* 
-* 
-* 
+* 직원 페이지의 게시판, 고객 페이지의 게시판 2개 부분 제작
+* 오라클의 DDL 기능과 세션의 ID에 본인 확인을 통해 글쓰기, 수정, 삭제, 댓글 기능을 구현
+* CK 에디터를 사용한 글 내용에 html 태그 사용 가능
 * 개발 Tool : Eclipse, Oracle, Apache Tomcat v8.5
+* 직원 페이지 게시판 WebContent/EMP_board, Java Resources/com/bean/BoardBean.java, com/dao/BoardDao.java / com/db/MyOracle.java 참고
+* 고객 페이지 게시판 WebContent/CUS_board, Java Resources/com/bean/BoardBean2.java, com/dao/BoardDao2.java / com/db/MyOracle.java 참고
 
 ## 화성상공회의소 K - Move 2기
 
