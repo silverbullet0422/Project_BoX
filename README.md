@@ -11,17 +11,17 @@
 * 개발 Tool : Eclipse, SVN, Apache Tomcat v8.5
 
 
-## 화성상공회의소 K - Move 2기
+## 華城商工会議所　K - Move 2期 (화성상공회의소 K - Move 2기)
 
-### 이수 과정명
-* JAVA 입문 및 JSP 기반의 웹 어플리케이션 제작
+### 履修課程名 (이수 과정명)
+* JAVA入門及びJSP基盤のウェブアプリケーション制作 (JAVA 입문 및 JSP 기반의 웹 어플리케이션 제작)
 
-### 교육 기간
-* 2018.8.1 ~ 2018.11.28 (402 시간)
+### 教育期間 (교육 기간)
+* 2018.8.1 ~ 2018.11.28 (402時間)
 
-### 교육 내용
-* JAVA 프로그래밍 (131시간)
-  - 기본문법 및 객체지향기술(OOP), Collection, JDBC, FileIO 외.
+### 教育内容 (교육 내용)
+* JAVAプログラミング(131時間) (JAVA 프로그래밍 (131시간))
+  - 基本文法及びオブジェクト指向プログラミング、Collection, JDBC, FileIO外 (기본문법 및 객체지향기술(OOP), Collection, JDBC, FileIO 외)
   - JDK 1.8.x, Eclipse Photon
 
 * Oracle (SQL, Database) (28시간)
